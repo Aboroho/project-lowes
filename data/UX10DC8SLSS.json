@@ -1,0 +1,659 @@
+{
+    "productDetails": {
+        "1002661686": {
+            "product": {
+                "omniItemId": "1002661686",
+                "brand": "GE",
+                "brandId": "130",
+                "banners": [
+                    "USHI"
+                ],
+                "barcode": "084691849766",
+                "barcodes": [
+                    {
+                        "code": "084691849766",
+                        "qty": "1",
+                        "hierarchyLevel": "EACH",
+                        "consumerUnit": "true"
+                    }
+                ],
+                "categories": {
+                    "101276": "M000110"
+                },
+                "createdDate": "2021-08-06T23:43:33.881Z",
+                "description": "Profile Wall-mounted Range Hood Flue Cover (Stainless Steel)",
+                "disclaimer": "Accessory Only - product not included",
+                "energyStar": false,
+                "endDate": "9999-12-31T05:00:00.000Z",
+                "epc": {
+                    "additionalImages": [
+                        {
+                            "lg": null,
+                            "sm": null,
+                            "xl": null,
+                            "seq": 102,
+                            "src": "Vendor Provided",
+                            "baseUrl": "https://mobileimages.lowes.com/productimages/3a66349a-c1da-4148-b171-037114338eab/65378695.jpg"
+                        },
+                        {
+                            "lg": null,
+                            "sm": null,
+                            "xl": null,
+                            "seq": 103,
+                            "src": "Vendor Provided",
+                            "baseUrl": "https://mobileimages.lowes.com/productimages/5e03ddb9-3a65-4e5e-98f0-8c9428abae5d/65128532.jpg"
+                        }
+                    ]
+                },
+                "guides": [
+                    {
+                        "type": "CA_PROP_65_GUIDE",
+                        "guideTitle": "Prop65 Warning Label",
+                        "mimeType": "application/pdf",
+                        "url": "https://pdf.lowes.com/productdocuments/3aa21765-bbc0-469e-8557-c196ef216fb9/64772318.pdf"
+                    }
+                ],
+                "enhancedHazmatInfo": {
+                    "code": "N",
+                    "questionnaire": [
+                        {
+                            "attributeId": "1",
+                            "attributeName": "Hazmat Type",
+                            "attributeValue": "none"
+                        }
+                    ]
+                },
+                "imageName": "084691849766",
+                "imageUrls": [
+                    {
+                        "key": "baseUrl",
+                        "value": "https://mobileimages.lowes.com/productimages/2b58c6b0-d645-4833-b941-c1bec404af98/65389266.jpg"
+                    }
+                ],
+                "interpackDesc": "EACH",
+                "interPackQty": 1,
+                "interpackCode": "EA",
+                "isPublished": "Y",
+                "isBuyable": "Y",
+                "itemNumber": "2504255",
+                "itemBehavior": [
+                    "Regular"
+                ],
+                "itemEligibility": "Eligible",
+                "productStatus": true,
+                "unzippedEligible": false,
+                "hazmatCode": "N",
+                "inventoryBuffer": 0,
+                "installAvailInd": false,
+                "language": -1,
+                "lastModifiedDate": "2024-08-08T11:15:05.129Z",
+                "lastModifiedBy": "Product_Unzipped_Eligible_Sync",
+                "leadCapture": false,
+                "lowesExclusive": false,
+                "lcomIndicator": "Y",
+                "marketingBullets": [
+                    {
+                        "key": "1",
+                        "value": "For higher ceiling installations, the optional 10 ft ceiling duct cover kit is available, purchased separately"
+                    },
+                    {
+                        "key": "2",
+                        "value": "Includes a longer upper chimney that replaces the original in the package"
+                    },
+                    {
+                        "key": "3",
+                        "value": "Compatible with select hoods"
+                    }
+                ],
+                "maxPurQty": 0,
+                "modelId": "UX10DC8SLSS",
+                "orderItemMulQty": 1,
+                "orderItemMinQty": 1,
+                "pdURL": "/pd/GE-Profile-Wall-mounted-Range-Hood-Flue-Cover-Stainless-Steel/1002661686",
+                "productTypeCode": 1,
+                "rating": "1.0",
+                "reviewCount": "1",
+                "romanceCopy": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile\u2019s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you\u2019ve been looking for.",
+                "rollupIndicator": false,
+                "status": "ACTIVE",
+                "startDate": "2020-03-31T05:00:00.000Z",
+                "sellingRestriction": false,
+                "sosFreightType": "Pre-Paid",
+                "specs": [
+                    {
+                        "key": "Color/Finish Family",
+                        "value": "Stainless steel",
+                        "seq": 1,
+                        "group": "General",
+                        "groupSeq": 1
+                    },
+                    {
+                        "key": "Manufacturer Color/Finish",
+                        "value": "Stainless Steel",
+                        "seq": 2,
+                        "group": "General",
+                        "groupSeq": 1
+                    },
+                    {
+                        "key": "Sub-Brand",
+                        "value": "Profile",
+                        "seq": 3,
+                        "group": "General",
+                        "groupSeq": 1
+                    },
+                    {
+                        "key": "Type",
+                        "value": "Flue cover",
+                        "seq": 4,
+                        "group": "General",
+                        "groupSeq": 1
+                    },
+                    {
+                        "key": "Maximum Ceiling Height (Feet)",
+                        "value": "10",
+                        "seq": 5,
+                        "group": "Dimensions",
+                        "groupSeq": 2
+                    },
+                    {
+                        "key": "Size",
+                        "value": "Universal",
+                        "seq": 6,
+                        "group": "Dimensions",
+                        "groupSeq": 2
+                    },
+                    {
+                        "key": "Duct-Free",
+                        "value": "No",
+                        "seq": 7,
+                        "group": "Features",
+                        "groupSeq": 3
+                    },
+                    {
+                        "key": "For Use With",
+                        "value": "Wall-Mounted range hood",
+                        "seq": 8,
+                        "group": "Features",
+                        "groupSeq": 3
+                    },
+                    {
+                        "key": "Material",
+                        "value": "Stainless steel",
+                        "seq": 9,
+                        "group": "Features",
+                        "groupSeq": 3
+                    },
+                    {
+                        "key": "Total Number of Pieces",
+                        "value": "1",
+                        "seq": 10,
+                        "group": "Features",
+                        "groupSeq": 3
+                    },
+                    {
+                        "key": "Warranty",
+                        "value": "1-year limited",
+                        "seq": 11,
+                        "group": "Warranty",
+                        "groupSeq": 5
+                    },
+                    {
+                        "key": "CA Residents: Prop 65 Warning(s)",
+                        "value": "Yes",
+                        "seq": 12,
+                        "group": "Certifications",
+                        "groupSeq": 6
+                    },
+                    {
+                        "key": "UNSPSC",
+                        "value": "52141500",
+                        "seq": 13,
+                        "group": "Miscellaneous",
+                        "groupSeq": 100
+                    }
+                ],
+                "type": "LOCALONLY",
+                "vendorNumber": "83",
+                "primaryVendor": "83",
+                "vendorDirect": "0",
+                "vendorLeadTime": 10,
+                "weight": "9",
+                "legacyDescription": "SOS GE RNG HD ACC UX10DC8SLSS",
+                "itemCubeMeasure": "1.6393",
+                "itemHeightMeasure": "11.9",
+                "itemDepthMeasure": "11.5",
+                "itemWidthMeasure": "20.7",
+                "itemWeightMeasure": "9",
+                "measurements": {
+                    "depth": {
+                        "uom": "Inches",
+                        "value": "11.5",
+                        "conversions": [
+                            {
+                                "uom": "Centimeters",
+                                "value": "29.21",
+                                "system": "Metric"
+                            },
+                            {
+                                "uom": "Millimeters",
+                                "value": "292.1",
+                                "system": "Metric"
+                            }
+                        ]
+                    },
+                    "width": {
+                        "uom": "Inches",
+                        "value": "20.7",
+                        "conversions": [
+                            {
+                                "uom": "Centimeters",
+                                "value": "52.578",
+                                "system": "Metric"
+                            },
+                            {
+                                "uom": "Millimeters",
+                                "value": "525.78",
+                                "system": "Metric"
+                            }
+                        ]
+                    },
+                    "height": {
+                        "uom": "Inches",
+                        "value": "11.9",
+                        "conversions": [
+                            {
+                                "uom": "Centimeters",
+                                "value": "30.226",
+                                "system": "Metric"
+                            },
+                            {
+                                "uom": "Millimeters",
+                                "value": "302.26",
+                                "system": "Metric"
+                            }
+                        ]
+                    },
+                    "grossWeight": {
+                        "uom": "lbs.",
+                        "value": "9",
+                        "conversions": [
+                            {
+                                "uom": "Kilograms",
+                                "value": "4.0824",
+                                "system": "Metric"
+                            }
+                        ]
+                    },
+                    "netWeight": {
+                        "uom": "lbs.",
+                        "value": "6.2",
+                        "conversions": [
+                            {
+                                "uom": "Kilograms",
+                                "value": "2.8123",
+                                "system": "Metric"
+                            }
+                        ]
+                    },
+                    "cube": {
+                        "uom": "Cu. Feet",
+                        "value": "1.6393",
+                        "conversions": [
+                            {
+                                "uom": "Cu. Meters",
+                                "value": "0.0464",
+                                "system": "Metric"
+                            }
+                        ]
+                    },
+                    "netContent": {
+                        "uom": "Each",
+                        "value": "1"
+                    }
+                },
+                "ltlIndicator": "N",
+                "similarItemIndicator": false,
+                "productVisualizer": false,
+                "merchandisingHierarchy": {
+                    "assortment": "27832",
+                    "assortmentDescription": "SOS ACCESSORIES - GE",
+                    "productGroup": "510056",
+                    "productGroupDescription": "SOS COOKING",
+                    "subDivision": "186",
+                    "subDivisionDescription": "COOKING",
+                    "division": "37",
+                    "divisionDescription": "APPLIANCES",
+                    "businessArea": "7",
+                    "businessAreaDescription": "HOME DECOR"
+                },
+                "storeEligible": false,
+                "sellingChannel": [
+                    "Online"
+                ],
+                "mainModel": true,
+                "highRiskIndicator": false,
+                "epcItems": "image",
+                "props65": {
+                    "isPDF": {
+                        "type": "CA_PROP_65_GUIDE",
+                        "guideTitle": "Prop65 Warning Label",
+                        "mimeType": "application/pdf",
+                        "url": "https://pdf.lowes.com/productdocuments/3aa21765-bbc0-469e-8557-c196ef216fb9/64772318.pdf"
+                    },
+                    "pdpURL": "https://pdf.lowes.com/productdocuments/3aa21765-bbc0-469e-8557-c196ef216fb9/64772318.pdf",
+                    "value": "Yes",
+                    "show": true
+                },
+                "title": "GE Profile Wall-mounted Range Hood Flue Cover (Stainless Steel)",
+                "isArchived": false,
+                "isGiftCard": false,
+                "isNotAvailable": true,
+                "isCDPNotAvailable": true,
+                "showATC": false,
+                "isOOS": true,
+                "zippedInExperience": false,
+                "productImages": {
+                    "isNLP": false
+                },
+                "isExclusive": false,
+                "isRestriction": false,
+                "restrictionDetails": {},
+                "isBasePaint": false,
+                "isConfigurablePaintProduct": false
+            },
+            "location": {
+                "eligibleToPurchase": false,
+                "sosVendorDirect": false,
+                "promoVersion": "v2"
+            },
+            "itemInventory": {},
+            "mfePrice": false
+        }
+    },
+    "productId": "1002661686",
+    "ratings": {
+        "1002661686": {
+            "rating": "1.0",
+            "reviewCount": "1"
+        }
+    },
+    "associatedServices": {},
+    "siteDetails": {
+        "site": "LOWES",
+        "isSignIn": false,
+        "userSegmentData": {},
+        "organizationData": {}
+    },
+    "storeDetails": {},
+    "groupDetail": {
+        "data": [],
+        "isLoaded": true,
+        "groupIds": []
+    },
+    "collectionIds": {
+        "sbrGrIds": {
+            "GR_276": "GR_276",
+            "GR_275": "GR_275",
+            "GR_2571": "GR_2571",
+            "GR_3437": "GR_3437",
+            "GR_1835": "GR_1835",
+            "GR_1708": "GR_1708",
+            "GR_1732": "GR_1732",
+            "GR_4778": "GR_4778",
+            "GR_274": "GR_274",
+            "GR_1630": "GR_1630",
+            "GR_2569": "GR_2569",
+            "GR_2577": "GR_2577",
+            "GR_1629": "GR_1629",
+            "GR_4779": "GR_4779",
+            "GR_669": "GR_669",
+            "GR_4776": "GR_4776",
+            "GR_1614": "GR_1614",
+            "GR_2570": "GR_2570",
+            "GR_2661": "GR_2661",
+            "GR_667": "GR_667",
+            "GR_5880": "GR_5880",
+            "GR_3440": "GR_3440",
+            "GR_1840": "GR_1840",
+            "GR_5882": "GR_5882",
+            "GR_1626": "GR_1626",
+            "GR_5881": "GR_5881",
+            "GR_4780": "GR_4780",
+            "GR_277": "GR_277",
+            "GR_2574": "GR_2574",
+            "GR_1838": "GR_1838",
+            "GR_3439": "GR_3439",
+            "GR_2572": "GR_2572",
+            "GR_3441": "GR_3441",
+            "GR_5876": "GR_5876",
+            "GR_5879": "GR_5879",
+            "GR_2575": "GR_2575",
+            "GR_846": "GR_846",
+            "GR_4775": "GR_4775",
+            "GR_5878": "GR_5878",
+            "GR_1735": "GR_1735",
+            "GR_1736": "GR_1736",
+            "GR_655": "GR_655",
+            "GR_6501": "GR_6501",
+            "GR_5874": "GR_5874",
+            "GR_1738": "GR_1738",
+            "GR_3970": "GR_3970",
+            "GR_5875": "GR_5875",
+            "GR_3002": "GR_3002",
+            "GR_3442": "GR_3442",
+            "GR_3782": "GR_3782",
+            "GR_3018": "GR_3018",
+            "GR_4783": "GR_4783",
+            "GR_1707": "GR_1707",
+            "GR_1734": "GR_1734",
+            "GR_5265": "GR_5265",
+            "GR_1733": "GR_1733",
+            "GR_3443": "GR_3443",
+            "GR_6502": "GR_6502",
+            "GR_7797": "GR_7797",
+            "GR_6368": "GR_6368",
+            "GR_7579": "GR_7579",
+            "GR_1731": "GR_1731",
+            "GR_6503": "GR_6503",
+            "GR_1730": "GR_1730",
+            "GR_1837": "GR_1837",
+            "GR_4791": "GR_4791",
+            "GR_5841": "GR_5841",
+            "GR_4789": "GR_4789",
+            "GR_6366": "GR_6366",
+            "GR_2995": "GR_2995",
+            "GR_3004": "GR_3004",
+            "GR_4786": "GR_4786",
+            "GR_3009": "GR_3009",
+            "GR_4781": "GR_4781",
+            "GR_6367": "GR_6367",
+            "GR_3971": "GR_3971",
+            "GR_7361": "GR_7361",
+            "GR_6500": "GR_6500",
+            "GR_5053": "GR_5053",
+            "GR_3501": "GR_3501",
+            "GR_1493": "GR_1493",
+            "GR_5873": "GR_5873",
+            "GR_5877": "GR_5877",
+            "GR_5051": "GR_5051",
+            "GR_1494": "GR_1494",
+            "GR_3019": "GR_3019",
+            "GR_6536": "GR_6536",
+            "GR_1737": "GR_1737",
+            "GR_6949": "GR_6949",
+            "GR_5224": "GR_5224",
+            "GR_4538": "GR_4538",
+            "GR_5267": "GR_5267",
+            "GR_1492": "GR_1492",
+            "GR_6499": "GR_6499",
+            "GR_6534": "GR_6534",
+            "GR_6140": "GR_6140",
+            "GR_5264": "GR_5264",
+            "GR_961": "GR_961",
+            "GR_5266": "GR_5266",
+            "GR_4540": "GR_4540",
+            "GR_4541": "GR_4541",
+            "GR_6141": "GR_6141",
+            "GR_6952": "GR_6952",
+            "GR_3795": "GR_3795",
+            "GR_3799": "GR_3799",
+            "GR_4539": "GR_4539",
+            "GR_4329": "GR_4329",
+            "GR_2065": "GR_2065",
+            "GR_6798": "GR_6798",
+            "GR_6143": "GR_6143",
+            "GR_954": "GR_954",
+            "GR_6951": "GR_6951",
+            "GR_2311": "GR_2311",
+            "GR_4328": "GR_4328",
+            "GR_3785": "GR_3785",
+            "GR_3786": "GR_3786",
+            "GR_3793": "GR_3793",
+            "GR_4325": "GR_4325",
+            "GR_1628": "GR_1628",
+            "GR_2313": "GR_2313",
+            "GR_4324": "GR_4324",
+            "GR_2060": "GR_2060",
+            "GR_6535": "GR_6535",
+            "GR_6142": "GR_6142",
+            "GR_3789": "GR_3789",
+            "GR_3796": "GR_3796",
+            "GR_955": "GR_955",
+            "GR_3788": "GR_3788",
+            "GR_3780": "GR_3780",
+            "GR_6797": "GR_6797",
+            "GR_2314": "GR_2314",
+            "GR_3784": "GR_3784",
+            "GR_2167": "GR_2167",
+            "GR_958": "GR_958",
+            "GR_957": "GR_957",
+            "GR_6799": "GR_6799",
+            "GR_3790": "GR_3790",
+            "GR_3798": "GR_3798",
+            "GR_3791": "GR_3791",
+            "GR_2064": "GR_2064",
+            "GR_2066": "GR_2066",
+            "GR_2312": "GR_2312",
+            "GR_4327": "GR_4327",
+            "GR_4326": "GR_4326",
+            "GR_956": "GR_956",
+            "GR_2181": "GR_2181",
+            "GR_2061": "GR_2061",
+            "GR_964": "GR_964",
+            "GR_3787": "GR_3787",
+            "GR_1939": "GR_1939",
+            "GR_2308": "GR_2308",
+            "GR_3801": "GR_3801",
+            "GR_4331": "GR_4331",
+            "GR_4330": "GR_4330",
+            "GR_6950": "GR_6950",
+            "GR_962": "GR_962",
+            "GR_1983": "GR_1983",
+            "GR_2309": "GR_2309",
+            "GR_7963": "GR_7963",
+            "GR_7960": "GR_7960",
+            "GR_7966": "GR_7966",
+            "GR_7961": "GR_7961",
+            "GR_7962": "GR_7962",
+            "GR_7965": "GR_7965",
+            "GR_7959": "GR_7959",
+            "GR_7964": "GR_7964",
+            "GR_2216": "GR_2216",
+            "GR_2218": "GR_2218",
+            "GR_2220": "GR_2220",
+            "GR_2222": "GR_2222",
+            "GR_9660": "GR_9660",
+            "GR_9661": "GR_9661",
+            "GR_9662": "GR_9662",
+            "GR_9663": "GR_9663",
+            "GR_9664": "GR_9664",
+            "GR_9665": "GR_9665",
+            "GR_8323": "GR_8323",
+            "GR_4542": "GR_4542",
+            "GR_2166": "GR_2166",
+            "GR_3804": "GR_3804",
+            "GR_8896": "GR_8896",
+            "GR_8898": "GR_8898",
+            "GR_8897": "GR_8897",
+            "GR_9735": "GR_9735",
+            "GR_9342": "GR_9342",
+            "GR_9341": "GR_9341",
+            "GR_9439": "GR_9439",
+            "GR_9697": "GR_9697",
+            "GR_9442": "GR_9442",
+            "GR_9699": "GR_9699",
+            "GR_9441": "GR_9441",
+            "GR_9440": "GR_9440",
+            "GR_9343": "GR_9343",
+            "GR_9443": "GR_9443",
+            "GR_10779": "GR_10779",
+            "GR_10603": "GR_10603",
+            "GR_10604": "GR_10604",
+            "GR_10693": "GR_10693",
+            "GR_10449": "GR_10449",
+            "GR_11035": "GR_11035",
+            "GR_11036": "GR_11036",
+            "GR_11038": "GR_11038",
+            "GR_11040": "GR_11040",
+            "GR_11044": "GR_11044",
+            "GR_11045": "GR_11045",
+            "GR_11046": "GR_11046",
+            "GR_11049": "GR_11049",
+            "GR_11050": "GR_11050",
+            "GR_11052": "GR_11052",
+            "GR_11054": "GR_11054",
+            "GR_11059": "GR_11059",
+            "GR_11061": "GR_11061",
+            "GR_11063": "GR_11063",
+            "GR_11064": "GR_11064",
+            "GR_11065": "GR_11065",
+            "GR_11066": "GR_11066",
+            "GR_11068": "GR_11068",
+            "GR_11069": "GR_11069",
+            "GR_11070": "GR_11070",
+            "GR_11071": "GR_11071",
+            "GR_11072": "GR_11072",
+            "GR_11073": "GR_11073",
+            "GR_11074": "GR_11074",
+            "GR_11198": "GR_11198",
+            "GR_11201": "GR_11201",
+            "GR_11202": "GR_11202",
+            "GR_11204": "GR_11204",
+            "GR_11205": "GR_11205",
+            "GR_11206": "GR_11206",
+            "GR_11209": "GR_11209",
+            "GR_11219": "GR_11219",
+            "GR_11220": "GR_11220",
+            "GR_11222": "GR_11222",
+            "GR_11223": "GR_11223",
+            "GR_11224": "GR_11224",
+            "GR_11227": "GR_11227",
+            "GR_11229": "GR_11229",
+            "GR_11231": "GR_11231",
+            "GR_11232": "GR_11232",
+            "GR_11239": "GR_11239",
+            "GR_11240": "GR_11240",
+            "GR_11243": "GR_11243",
+            "GR_11244": "GR_11244",
+            "GR_11246": "GR_11246",
+            "GR_11247": "GR_11247",
+            "GR_11248": "GR_11248",
+            "GR_11249": "GR_11249",
+            "GR_11250": "GR_11250",
+            "GR_11258": "GR_11258",
+            "GR_11261": "GR_11261",
+            "GR_11262": "GR_11262",
+            "GR_11263": "GR_11263",
+            "GR_11264": "GR_11264",
+            "GR_11267": "GR_11267",
+            "GR_11273": "GR_11273",
+            "GR_11274": "GR_11274",
+            "GR_11276": "GR_11276",
+            "GR_11277": "GR_11277",
+            "GR_11278": "GR_11278",
+            "GR_11279": "GR_11279",
+            "GR_11281": "GR_11281"
+        }
+    },
+    "collectionItemDetails": []
+}

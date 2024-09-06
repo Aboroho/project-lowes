@@ -7,14 +7,14 @@ load_dotenv()
 class BrowserInstance:
     _on_request_handler = None
     _on_response_handler = None
+    
     _proxy  = {
-        'server' : os.getenv('server'),
-        'username' : os.getenv('username'),
-        'password' : os.getenv('password'),
+        'server' : os.getenv('proxy-server'),
+        'username' : os.getenv('proxy-username'),
+        'password' : os.getenv('proxy-password')
     }
     
     def __init__(self,playwright, proxy = None, headless = False):
-        
         config = {
             'headless' : headless,
             'proxy' : self._proxy

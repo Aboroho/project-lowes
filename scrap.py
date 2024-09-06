@@ -1,8 +1,6 @@
-import asyncio
 import os
 import sys
 import threading
-import time
 from BrowserInstance import BrowserInstance
 from pathlib import Path
 import pandas as pd
